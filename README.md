@@ -1,5 +1,9 @@
 # Projeto-Hostinger
  
-Projeto Kinghost aplicando SASS e HTML
+Projeto Kinghost using SASS e HTML
 
-Confira aqui: https://silveirabeatriz.github.io/projeto-hostinger/
+The project can be accessed at the link: https://silveirabeatriz.github.io/projeto-hostinger/
+
+
+
+
